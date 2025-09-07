@@ -16,4 +16,4 @@ I’m learning so I can turn around and teach it.
 - When I hit a wall I open an issue instead of letting confusion rot in private.
 
 ## End goal
-Finish the 30 days, polish the notes into mini-lessons, and run a free learning session for friends/family and anyone who'd like to learn how to code in. If just one person avoids the traps I stepped in, the repo already paid rent.
+Finish the 30 days, polish the notes into mini-lessons, and run a free learning session for friends/family and anyone who'd like to learn how to code in Rust. If just one person avoids the traps I stepped in, the repo already paid rent.
