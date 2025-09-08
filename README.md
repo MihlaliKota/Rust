@@ -1,6 +1,6 @@
 # Learning Rust
 
-This repo is where I follow along with [@Hunterdii’s 30DaysOfRust](https://github.com/Hunterdii) to learn Rust—nothing fancy, just my daily notes and code.  
+This repo is where I follow along with [@Hunterdii’s 30DaysOfRust](https://github.com/Hunterdii/30-Days-Of-Rust) to learn Rust—nothing fancy, just my daily notes and code.  
 I’m learning so I can turn around and teach it.
 
 ## Why this exists
